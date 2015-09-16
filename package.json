@@ -1,6 +1,6 @@
 {
   "name": "window-or-global",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use either the window object in the browser or the global object in node.",
   "license": "MIT",
   "repository": "purposeindustries/window-or-global",
