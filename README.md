@@ -4,6 +4,8 @@ window-or-global
 Use this module to get the global object both on server and client side.
 No more `window is not defined` errors just peace and flowers.
 
+The code is borrowed from [megawac/underscore@365311c](https://github.com/megawac/underscore/commit/365311c9a440438531ca1c6bfd49e3c7c5f46079). 
+
 Advantages:
 
 - You can easily mock it by [mockery](https://www.npmjs.com/package/mockery) or [proxyquire](https://www.npmjs.com/package/proxyquire) in your tests
