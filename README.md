@@ -40,7 +40,7 @@ class MyComponent extends Component {
   }
 
   componentWillUnmount() {
-    root.addEventListener(/*...*/)
+    root.removeEventListener(/*...*/)
   }
 
   render() {}
